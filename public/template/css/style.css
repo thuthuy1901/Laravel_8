@@ -1,0 +1,73 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap");
+
+.main-menu > li > a,
+.main-menu-m > li > a {
+    font-family: "Roboto", sans-serif;
+    font-weight: bold;
+    color: #7b9200;
+}
+
+body,
+.sub-menu a,
+.ltext-201.cl2,
+.ltext-201,
+.container span,
+h3,
+.row a,
+.mtext-102,
+.stext-106,
+.wrap-search-header input,
+.stext-109,
+.mtext-105,
+.tab01 .nav-link,
+.stext-107,
+.mtext-109,
+.table-shopping-cart td,
+.stext-101,
+.mtext-103,
+.header-cart-total,
+.table-shopping-cart .table_head th,
+.stext-111,
+.mtext-107,
+p {
+    font-family: "Roboto", sans-serif !important;
+}
+
+.text-slider {
+    background: linear-gradient(to right, #52b788, #3a86ff);
+    -webkit-background-clip: text;
+    color: transparent;
+}
+
+.fix-menu-desktop .main-menu > li > a {
+    color: black;
+}
+
+.fix-menu-desktop .main-menu > li.active-menu > a {
+    color: #6c7ae0;
+}
+
+.zmdi {
+    color: black;
+}
+
+.fix-menu-desktop .zmdi {
+    color: black;
+}
+
+.container span {
+    font-weight: bold;
+}
+
+.hidden {
+    display: none !important;
+}
+
+.size-209 {
+    width: 100%;
+}
+
+.zmdi.zmdi-caret-right,
+.zmdi.zmdi-caret-left {
+    color: white;
+}
